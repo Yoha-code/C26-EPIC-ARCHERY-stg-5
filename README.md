@@ -1,1 +1,1 @@
-# C26-EPIC-ARCHERY-stg-5
+# project-C26-template
